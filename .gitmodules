@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "interim"]
+	path = interim
+	url = https://github.com/cran/interim
+	shallow = true
+	registered = true
+[submodule "interimApp"]
+	path = interimApp
+	url = https://github.com/cran/interimApp
+	shallow = true
+	registered = true
